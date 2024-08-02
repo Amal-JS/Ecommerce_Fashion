@@ -1,0 +1,2 @@
+admin credentials = admin admin
+user  credentials = user user
